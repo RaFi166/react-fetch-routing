@@ -1,0 +1,16 @@
+.posts_main{
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    row-gap: 20px;
+    column-gap: 50px;
+}
+.btn_posts{
+    color: white;
+    font-weight: 600px;
+    background-color: tomato;
+    cursor: pointer;
+    border: 1px solid tomato;
+    border-radius: 8px;
+    padding: 10px;
+
+}
